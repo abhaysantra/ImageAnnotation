@@ -1,0 +1,86 @@
+{
+    "imageMetadata": {
+        "asset": "021.jpg",
+        "assetid": 3,
+        "noOfObjects": 7
+    },
+    "elements": [
+        {
+            "objectid": 15,
+            "assetid": 3,
+            "objname": "Bottle0",
+            "object": {
+                "x": 296,
+                "y": 354,
+                "x1": 365,
+                "y1": 514
+            }
+        },
+        {
+            "objectid": 16,
+            "assetid": 3,
+            "objname": "Bottle1",
+            "object": {
+                "x": 710,
+                "y": 346,
+                "x1": 788,
+                "y1": 498
+            }
+        },
+        {
+            "objectid": 17,
+            "assetid": 3,
+            "objname": "Bottle2",
+            "object": {
+                "x": 1049,
+                "y": 337,
+                "x1": 1125,
+                "y1": 489
+            }
+        },
+        {
+            "objectid": 18,
+            "assetid": 3,
+            "objname": "Bottle3",
+            "object": {
+                "x": 75,
+                "y": 360,
+                "x1": 152,
+                "y1": 517
+            }
+        },
+        {
+            "objectid": 19,
+            "assetid": 3,
+            "objname": "Bottle4",
+            "object": {
+                "x": 503,
+                "y": 351,
+                "x1": 558,
+                "y1": 407
+            }
+        },
+        {
+            "objectid": 20,
+            "assetid": 3,
+            "objname": "Bottle5",
+            "object": {
+                "x": 646,
+                "y": 311,
+                "x1": 691,
+                "y1": 420
+            }
+        },
+        {
+            "objectid": 21,
+            "assetid": 3,
+            "objname": "Bottle6",
+            "object": {
+                "x": 1173,
+                "y": 345,
+                "x1": 1255,
+                "y1": 508
+            }
+        }
+    ]
+}
