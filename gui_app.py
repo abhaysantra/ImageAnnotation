@@ -7,7 +7,7 @@ from PIL import Image, ImageTk
 from tkinter.ttk import Style
 from PIL import Image, ImageTk
 
-import os, sys, cv2, json
+import os, sys, cv2, json,time
 import create_json
 import visualize_object_resized
 import upload_raw_data_into_db
@@ -65,7 +65,7 @@ class SimpleGUI:
 
 
     def update_status(self, image_name, status):
-        print("update_status for image_asset : ", image_name,status)
+        print("update_status for image_asset: ", image_name,status)
         #update db
         connection = create_json.create_database_connection()
         sql_query = '''update image_asset set asset_status=%d ''' %(status) + '''where image_name = '%s' ''' %(image_name)
